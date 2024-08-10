@@ -1,0 +1,135 @@
+00000001:Terminal Number
+00000002:ICCID
+00000003:IMEI
+00000004:Software Version Number
+00000005:Hardware Version
+00000006:Public APN
+00000007:Private APN
+00000008:Supply Voltage
+00000009:Ignition Status
+0000000A:Current Running Mode
+0000000B:Positioning Status
+0000000C:Not Calibrated
+0000000D:Calibration
+0000000E:Enabled
+0000000F:Disabled
+00000010:File Saving
+00000011:VIN
+00000012:Vehicle Color
+00000013:Vehicle Type
+00000014:Fuel Type
+00000015:Number of Passengers
+00000016:Flip Angle Threshold Value
+00000017:3D Initialization or Not
+00000018:Disable Six Axis Sensor or Not
+00000019:Test Item
+0000001A:Number of Tests
+0000001B:Number of Successes
+0000001C:Number of Failures
+0000001D:Fail to open serial port
+0000001E:Connect
+0000001F:Disconnect
+00000020:Connection successful
+00000021:Software Integrity
+00000022:GSM/UMTS Communication
+00000023:GNSS Communication
+00000024:GNSS Information Integrity
+00000025:GNSS Antenna
+00000026:Backup Battery Level
+00000027:GSM/UMTS Antenna
+00000028:Automatic RTA Detector Communication
+00000029:UIM Status
+0000002A:MIC
+0000002B:SPEAKER
+0000002C:CALL TEST
+0000002D:Other services are being processed, please try again later
+0000002E:Connected
+0000002F:Other errors
+00000030:Successful disconnect
+00000031:Disconnected
+00000032:Device selection
+00000033:Serial Port
+00000034:Baud Rate
+00000035:Terminal Upgrade
+00000036:Open the Upgrade file
+00000037:Start Upgrade
+00000038:Terminal Parameter Reading
+00000039:Test Mode
+0000003A:Vehicle Parameter Entry
+0000003B:Commands Query
+0000003C:Select All
+0000003D:Select None
+0000003E:Number Of Automatic Tests
+0000003F:Start
+00000040:End
+00000041:Read
+00000042:Write
+00000043:Save CSV file
+00000044:Customize Commands
+00000045:Press Enter to Execute
+00000046:Send Custom Commands
+00000047:Audio Test
+00000048:Start Test
+00000049:End Test
+0000004A:Export Test Results
+0000004B:Save Log
+0000004C:Clear log
+0000004D:Open serial port successfully
+0000004E:Off
+0000004F:On
+00000050:Not located
+00000051:Located
+00000052:Date
+00000053:Time
+00000054:Command
+00000055:Execution Interval(ms)
+00000056:Number of execution
+00000057:Fail to Disconnect, there are other errors.
+00000058:Test Start
+00000059:SOS Button
+0000005A:Recording
+0000005B:Additional Button
+0000005C:Playing back
+0000005D:Test is completed
+0000005E:Tips
+0000005F:Open the upgrade file
+00000060:Audio Test Failed
+00000061:Audio Test Status=
+00000062:The save path is empty
+00000063:Save Log File
+00000064:All File(*.*);;Text File(*.txt);;Log File(*.log);
+00000065:Continue
+00000066:Suspend
+00000067:Whether the audio test passes?
+00000068:Pass
+00000069:Fail
+0000006A:Save successfully 
+0000006B:Load Test Script
+0000006C:All File(*.*);;Text File(*.txt);;XML File(*.xml);
+0000006D:Select Save Path
+0000006E:Clear All
+0000006F:Save Test Results
+00000070:Language
+00000071:Chinese
+00000072:English
+00000073:The software will be rebooted,sure to switch the language?
+00000074:Send
+00000075:Selected empty items
+00000076:Commands execution count is 0
+00000077:Connection timed out.
+00000078:All File(*.*);
+00000079:Fail to open file
+0000007A:Read successful
+0000007B:Loading test script failed
+0000007C:Save Test Script
+0000007D:XML File(*.xml);
+0000007E:Parameter
+0000007F:Value
+00000080:Invalid parameter
+00000081:Upgrade failed
+00000082:File transfer failed
+00000083:Upgrade Successful
+00000084:Call Test
+00000085:The call test failed
+00000086:Whether the call test pass?
+00000087:File %1 has been opened by another application, please close the file and try again.

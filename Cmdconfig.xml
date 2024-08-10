@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="HPM10" version="1.0">
+    <command delay="1000" value="HPM+VER?"/>
+    <command delay="1000" value="HPM+ESFNUM?"/>
+    <command delay="1000" value="HPM+EMDT?"/>
+    <command delay="1000" value="HPM+IMTI?"/>
+    <command delay="1000" value="HPM+NDTM?"/>
+</project>
